@@ -79,10 +79,11 @@ public class Maze
             }
             else
             {
-                switch(grid[currentRow][currentCol])
+<<<<<<< HEAD
+                switch(grid[row][col])
 		{
 			case MAZE.EMPTY:
-			grid[currentRow][currentCol] = Maze.VISITED;
+			grid[row][col] = Maze.VISITED;
 			break;
 			
 			case MAZE.WALL:
@@ -98,6 +99,7 @@ public class Maze
 			//Do nothing
 
 		}
+
             }
             
             charIndex++;
