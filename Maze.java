@@ -21,8 +21,8 @@ public class Maze
             { WALL, EMPTY, EMPTY, EMPTY, EMPTY, EMPTY,  WALL, EMPTY,  WALL, WALL},
             { WALL,  WALL,  WALL,  WALL, EMPTY,  WALL, EMPTY,  WALL, EMPTY, WALL},
             { WALL, EMPTY, EMPTY, EMPTY, EMPTY,  WALL, EMPTY, EMPTY, EMPTY, WALL},
-            { WALL,  WALL, EMPTY,  WALL,  WALL, EMPTY, EMPTY,  WALL, EMPTY, WALL},
-            { WALL,  WALL, EMPTY, EMPTY, EMPTY, EMPTY,  WALL,  WALL, EMPTY,  START},
+            { WALL,  WALL, WALL,  WALL,  WALL, EMPTY, EMPTY,  WALL, EMPTY, WALL},
+            { WALL,  WALL, WALL, WALL, WALL, WALL,  WALL,  WALL, EMPTY,  START},
             { WALL,  WALL,  WALL,  WALL,  WALL,  WALL,  WALL,  WALL,  WALL, WALL},
         };
                 
